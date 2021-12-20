@@ -25,7 +25,7 @@
 
 <br>
 
-### (⬆️ Me when people ask me if I can hack \<insert name of a social\>... I'm a programmer not a hacker)
+### (⬆️ Me when people ask if I can hack \<insert name of a social\>... I'm a programmer not a hacker)
 
 <br>
 
