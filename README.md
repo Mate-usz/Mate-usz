@@ -5,7 +5,7 @@
 <div>
   <img align="left" src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" height="315">
 
-  ### - I'm 26 yo, Computer Engineering student and I'm addicted to programming
+  ### - Born in 1996, Computer Engineering student and I'm addicted to programming
 
   ### - 🌱 I’m currently learning everything 🤣 but mostly web development as front-end
   
