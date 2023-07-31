@@ -1,4 +1,4 @@
-## Hi, I'm Mateusz a junior front-end developer 👋
+## Hi, I'm Mateusz a front-end developer 👋
 
 <br>
 
